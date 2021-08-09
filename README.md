@@ -1,3 +1,3 @@
 # hello-world
-
-Hello, hier habe diese folgenden Änderungen gemacht!!
+# Man würde nicht glauben, welche Änderungen es bedarf
+# Diese habe ich gemacht
